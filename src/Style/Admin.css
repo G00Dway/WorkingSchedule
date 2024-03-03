@@ -1,0 +1,19 @@
+/* Tablo başlıkları */
+th {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Tablo hücreleri */
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Tek hücreye uygulanan hover efekti */
+td:hover {
+    background-color: #f2f2f2;
+}
